@@ -81,18 +81,3 @@ body{
 .dropdown.active{
   display: flex;
 }
-.width_350{
-  width: 350px;
-}
-.width_200{
-  width: 200px;
-}
-.width_100{
-  width: 100px;
-}
-/* .left_200{
-  left: -200px;
-} */
-.left_100{
-  left: -100px;
-}
